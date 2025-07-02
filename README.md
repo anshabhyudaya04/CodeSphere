@@ -58,7 +58,7 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/codesphere.git
+git clone https://github.com/anshabhyudaya04/CodeSphere.git
 cd codesphere
 ````
 
